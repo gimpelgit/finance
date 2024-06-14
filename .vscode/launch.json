@@ -1,0 +1,98 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+			{
+				"type": "java",
+				"name": "TT",
+				"request": "launch",
+				"mainClass": "TT",
+				"projectName": "proj_86ee26e6"
+			},
+			{
+				"type": "java",
+				"name": "GridBagStart",
+				"request": "launch",
+				"mainClass": "GridBagStart",
+				"projectName": "proj_86ee26e6"
+			},
+			{
+				"type": "java",
+				"name": "GridBagLayoutTest",
+				"request": "launch",
+				"mainClass": "GridBagLayoutTest",
+				"projectName": "proj_86ee26e6"
+			},
+			{
+				"type": "java",
+				"name": "CardLayoutTest",
+				"request": "launch",
+				"mainClass": "CardLayoutTest",
+				"projectName": "proj_86ee26e6"
+			},
+			{
+				"type": "java",
+				"name": "GridLayoutTest",
+				"request": "launch",
+				"mainClass": "GridLayoutTest",
+				"projectName": "proj_86ee26e6"
+			},
+			{
+				"type": "java",
+				"name": "BorderLayoutTest",
+				"request": "launch",
+				"mainClass": "BorderLayoutTest",
+				"projectName": "proj_86ee26e6"
+			},
+			{
+				"type": "java",
+				"name": "BoxLayoutTest",
+				"request": "launch",
+				"mainClass": "BoxLayoutTest",
+				"projectName": "proj_86ee26e6"
+			},
+			{
+				"type": "java",
+				"name": "FlowLayoutTest",
+				"request": "launch",
+				"mainClass": "FlowLayoutTest",
+				"projectName": "proj_86ee26e6"
+			},
+			{
+				"type": "java",
+				"name": "TestH",
+				"request": "launch",
+				"mainClass": "TestH",
+				"projectName": "proj_86ee26e6"
+			},
+			{
+				"type": "java",
+				"name": "Test",
+				"request": "launch",
+				"mainClass": "Test",
+				"projectName": "proj_86ee26e6"
+			},
+			{
+				"type": "java",
+				"name": "Main",
+				"request": "launch",
+				"mainClass": "Main",
+				"projectName": "proj_86ee26e6"
+			},
+			{
+				"type": "java",
+				"name": "Current File",
+				"request": "launch",
+				"mainClass": "${file}"
+			},
+			{
+				"type": "java",
+				"name": "Main",
+				"request": "launch",
+				"mainClass": "Main",
+				"projectName": "project_fc022ef0"
+			}
+		]
+}
